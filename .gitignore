@@ -1,3 +1,5 @@
 /node_modules
 md5.wasm*
 md5.min*
+!md5.min.mjs
+!md5.wasm.mjs
